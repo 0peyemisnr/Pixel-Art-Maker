@@ -11,4 +11,4 @@ Launch the live link from the browser
 Main Features
 User can enter the grid size of his choice and click "Submit" to draw the grid.
 Cell color can be chosen using the ColorPicker.
-On clicking a cell twice, the cell color reverts to white.
+The cursor can be used a picker to draw pattern on the grid.
